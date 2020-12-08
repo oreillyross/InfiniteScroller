@@ -1,13 +1,19 @@
 {
-  "name": "infinitescroller",
+  "name": "infinite-scroller",
   "version": "1.0.0",
-  "description": "",
+  "description": "Abstracts over React Window",
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
+    "@types/react-virtualized-auto-sizer": "1.0.0",
+    "@types/react-window": "1.8.2",
+    "@types/styled-components": "5.1.4",
     "react": "17.0.0",
     "react-dom": "17.0.0",
-    "react-scripts": "3.3.0"
+    "react-scripts": "3.3.0",
+    "react-virtualized-auto-sizer": "1.0.2",
+    "react-window": "1.8.6",
+    "styled-components": "5.2.1"
   },
   "devDependencies": {
     "@types/react": "16.9.19",
